@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1518447538 source:e:\data stracture\data structure\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"GraphAdjacenyMatrix.h"
+
+1518156899 e:\data stracture\data structure\doublylinkedlist.h
+
+1518158721 e:\data stracture\data structure\dynamicarray.h
+
+1518158666 e:\data stracture\data structure\stackusingarray.h
+	"DynamicArray.h"
+
+1518159251 e:\data stracture\data structure\stackusinglinkedlist.h
+	"DoublyLinkedList.h"
+
+1518268227 e:\data stracture\data structure\queueusingcirculararray.h
+
+1518270247 e:\data stracture\data structure\queueusinglinkedlist.h
+
+1518385455 e:\data stracture\data structure\binarytree.h
+	<queue>
+
+1518381787 source:e:\data stracture\data structure\a.c
+	<stdio.h>
+	<stdlib.h>
+
+1518447506 e:\data stracture\data structure\graphadjacenylist.h
+
+1518447639 e:\data stracture\data structure\graphadjacenymatrix.h
+
